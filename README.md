@@ -7,11 +7,11 @@ https://www.kaggle.com/datasets/mirichoi0218/insurance
 Please use the necessary graphs to answer the following questions by using the Plotly library and state your observations in a couple of sentences for each question. 
 
 1. What is the general outlook and statistics of the data?
-a. Data types
-b. Number of rows and columns
-c. Description of attributes
-d. Statistical outlook
-e. NaN values
+* a. Data types
+* b. Number of rows and columns
+* c. Description of attributes
+* d. Statistical outlook
+* e. NaN values
 
 Tip: You do not need to use graphs to answer this question. 
 
